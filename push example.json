@@ -1,0 +1,14 @@
+{
+	"to": "eNj43TKVpkDLpMrJH3znB3:APA91bE1P9AAYz2p8MkWVu-BceormsYHMInHg5tYwU69j2iGX7vdmZjU9tcbYVZ3kUR8aVYjQQAZvBFtC0AzqKFFFMNOcSmuwxQxEOFcEexUjKGatRB96MAZOa0tFWqAkC4opAcBs2E7",
+    "content_available": true,
+    "mutable_content" : true,
+    "apns-priority": 10,
+    "notification": {
+        "title": "Communication Notification",
+        "subtitle": "News Push",
+        "body": "Push communication notification for IOS"
+    },
+	"data": {
+        "image-url": "https://cdn.chanhtuoi.com/uploads/2020/05/icon-facebook-08-2.jpg.webp"
+	}
+}
