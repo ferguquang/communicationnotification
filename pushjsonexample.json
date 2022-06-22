@@ -1,5 +1,5 @@
 {
-	"to": "eNj43TKVpkDLpMrJH3znB3:APA91bE1P9AAYz2p8MkWVu-BceormsYHMInHg5tYwU69j2iGX7vdmZjU9tcbYVZ3kUR8aVYjQQAZvBFtC0AzqKFFFMNOcSmuwxQxEOFcEexUjKGatRB96MAZOa0tFWqAkC4opAcBs2E7",
+	"to": "yourDeviceToken",
     "content_available": true,
     "mutable_content" : true,
     "apns-priority": 10,
